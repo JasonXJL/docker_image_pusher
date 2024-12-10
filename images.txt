@@ -5,3 +5,5 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 apache/doris:doris-all-in-one-2.1.0
+apache/doris:doris-fe-2.1.7
+apache/doris:doris-be-2.1.7
