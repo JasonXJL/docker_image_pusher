@@ -1,15 +1,2 @@
-nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-apache/doris:doris-all-in-one-2.1.0
-apache/doris:doris-fe-2.1.7
-apache/doris:doris-be-2.1.7
-powerjob/powerjob-server:v5.1.1
-rust:slim
-rust:alpine
-apache/seata-server:2.2.0-slim
 apache/skywalking-oap-server:10.1.0-java21
 apache/skywalking-ui:10.1.0-java21
