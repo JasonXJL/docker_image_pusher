@@ -11,3 +11,5 @@ powerjob/powerjob-server:v5.1.1
 rust:slim
 rust:alpine
 apache/seata-server:2.2.0-slim
+apache/skywalking-oap-server:10.1.0-java21
+apache/skywalking-ui:10.1.0-java21
